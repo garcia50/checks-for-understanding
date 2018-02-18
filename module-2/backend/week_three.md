@@ -7,7 +7,7 @@ Try to answer them with limited amount of external research. These questions cov
 
 Note: When you're done, submit a PR with a reflection in the comments about how this exercise went for you.
 
-### Questions
+### Week 3 Questions
 
 1. What is the entry at the command line to create a new rails app?
 - rails new movie_mania -T -d="postgresql" --skip-turbolinks --skip-spring
@@ -52,12 +52,19 @@ I would use them to define a path/direction I'd like a certain action or link to
 12. Why do we want to validate our models?
 - To ensure that a user can create/save data in the database if they provide the necessary attributes to create the record.
 
+### Review Questions
+14. How would you call the method `prance` from within the method `move` on a `Horse` instance?
+15. Given the following hash:
 
+```ruby
+furniture = {table: {height: 3, color: "red"}, purchased: true}
+```
+What is the different between how you would return true vs returning 3?  
+16. What is inheritance?
 
+### Self Assessment:
+Choose One:
+* I was able to answer most questions independently, but utilized outside resources for a few
 
-
-
-
-
-
-
+Choose One:
+* I feel comfortable with the content presented this week
