@@ -71,17 +71,3 @@ new_array.each { |name| print "#{name }"" }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
