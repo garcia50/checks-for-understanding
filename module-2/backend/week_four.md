@@ -1,13 +1,13 @@
 ## Week Four Recap
 
 ### Instructions
-Fork this repository. Answer the questions to the best of your ability.
+Fork or re-pull this repository. Answer the questions to the best of your ability.
 
 Try to answer them with limited amount of external research. These questions cover the majority of what we've learned this week.
 
 Note: When you're done, submit a PR with a reflection in the comments about how this exercise went for you.
 
-### Questions
+### Week 4 Questions
 
 1. What is a cookie?
   -A cookie is data stored on a users computer(or depending on the app/server) that is remembered by the browser.
@@ -46,7 +46,7 @@ Note: When you're done, submit a PR with a reflection in the comments about how 
   -Use partial forms, using SASS selectors, making sure you keep most if not all your logic in your models.
 
 
-Reviews Questions 
+### Reviews Questions 
 13. Given the following array of hashes, how would I print an alphabetical list of holidays?
 ```ruby
 [
@@ -65,9 +65,10 @@ new_array.each { |name| print "#{name }"" }
 .to_i
 
 
+### Self Assessment:
+Choose One:
+* I was able to answer most questions independently, but utilized outside resources for a few
 
-
-
-
-
+Choose One:
+* I feel comfortable with the content presented this week
 
